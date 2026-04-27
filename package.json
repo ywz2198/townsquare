@@ -2,7 +2,7 @@
   "name": "townsquare",
   "version": "2.16.2",
   "description": "Blood on the Clocktower Town Square",
-  "author": "Steffen Baumgart",
+  "author": "Steffen Baumgart ",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build ./src/main.js",
